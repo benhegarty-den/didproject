@@ -1,0 +1,103 @@
+.wrap{
+	width:900px;
+	margin:auto;
+}
+.wrapper{
+	width:900px;
+	margin:auto;
+}
+
+.nav{
+	height:100px;
+	background-color: blue;
+	clear:both;
+}
+
+.hero{
+	height:450px;
+	background-color:cyan;
+	clear:both;
+
+}
+
+.coffee{
+	width:25%;
+	height:250px;
+	background-color: black;
+	float: left;
+
+}
+
+.coca{
+width:25%;
+	height:250px;
+	background-color: grey;
+	float: left;
+}
+
+.capacino{
+	width:25%;
+	height:250px;
+	background-color: green;
+	float: left;
+
+}
+
+.tea{
+	width:25%;
+	height:250px;
+	background-color: brown;
+	float: left;
+
+}
+
+.about{
+	height:350px;
+	background-color: orange;
+	clear:both;
+
+}
+
+.social{
+	height:100px;
+	background-color: darkgreen;
+
+}
+
+.info{
+	width:33.33%;
+	height:500px;
+	background-color: navy;
+	float: left;
+
+}
+
+.local{
+	width:33.33%;
+	height:500px;
+	background-color: lightblue;
+	float: left;
+
+}
+
+.make{
+	width:33.33%;
+	height:500px;
+	background-color: yellow;
+	float: left;
+
+}
+
+.who{
+	height:120px;
+	background-color:cyan;
+	clear:both;
+
+}
+
+.footer{
+	height:100px;
+	background-color:purple;
+	clear:both;
+
+}
